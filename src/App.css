@@ -1,0 +1,55 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.parentCard {
+    margin-left: 30%;
+    margin-top: 60px;
+    height: 400px;
+    width: 350px;
+    border: 2px solid black;
+    box-shadow: 2px 2px 2px grey;
+    border-radius: 30px;
+}
+
+.imageControl {
+    height: 200px;
+    width: 300px;
+    border: 2px solid black;
+    margin-left: 15px;
+    margin-top: 10px;
+    border: 8px;
+}
+
+.adjustimage {
+    height: 200px;
+    width: 300px;
+}
+
+.Title {
+    text-align: center;
+    font-family: cursive;
+    color: white;
+}
+
+.titledivision {
+    background-color: black;
+}
+
+.audiocontent {
+    margin-top: 0px;
+    margin-right: 0px;
+}
+
+#audioiconadjust {
+    margin-right: 0px;
+}
+
+.buttoncontent {
+    margin-top: 0px;
+}
+
+.buttoncontent:hover {
+    background-color: #282828;
+}
